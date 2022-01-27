@@ -23,6 +23,7 @@
     "sass": "^1.43.4"
   },
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "slick-carousel": "^1.8.1"
   }
 }
